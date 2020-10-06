@@ -41,6 +41,14 @@ h1 {
 }
 
 img {
-  /* Merci Vincent P */
   width: 150px;
+
+}
+
+table{
+  width: 100vw;
+}
+
+tbody tr:nth-child(odd) {
+  background: dodgerblue;
 }
